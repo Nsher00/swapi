@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+  color: yellow;
+  background-color: black;
+  background-image: url(https://images-ext-1.discordapp.net/external/LInPosS2FI6mQ4m-bZLDl2ygUOAJyytQcTsrzQgvS2A/https/cdn.pixabay.com/photo/2017/08/24/03/41/starry-sky-2675322_960_720.jpg?width=705&height=397);
+}
+
+.button {
+  width: 100px;
+  margin-top: 20px;
+}
